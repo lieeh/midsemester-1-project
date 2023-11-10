@@ -11,3 +11,6 @@ This Program will have features:
 
 - Worker Attendance
 - Supply Management
+
+How to use :
+Run the code in VSCode
